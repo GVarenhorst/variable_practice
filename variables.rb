@@ -2,15 +2,16 @@
 
 #Strings
 
-name = "harold"
-city = "new_york"
+name = "Harold"
+city = "New York"
 pet_animal = "cat"
-car = "toyota"
+car = "Toyota"
 
  p name
  p city
  p pet_animal
  p car
+
 # Integers
 
 birth_year = 1975
@@ -40,3 +41,16 @@ deceased = false
 p down_payment
 p married
 p deceased
+
+# New Strings
+
+name = "Garrett"
+city = "Denver"
+pet_animal = "dog"
+car = "Subaru"
+
+p name
+p city
+p pet_animal
+p car
+
